@@ -5,7 +5,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ### Screenshot
 <br/>
 
-![Imagem da solução](design\order-summary.jpg)
+![Imagem da solução](https://github.com/AllanPessin/order-summary/blob/main/design/order-summary.jpg)
 
 
 ## My process

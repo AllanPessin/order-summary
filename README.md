@@ -7,8 +7,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ![Imagem da solução](design\order-summary.jpg)
 
-
 ## My process
+
+- Primeiro a criação das tags html de forma semântica depois a estilização utilizando css puro e por ultimo adicionando os elementos de interação no componente.
 
 ### Built with
 
